@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreatePostBar unit test CreatePostBar Snapshot test 1`] = `
+<div
+  className="MuiBox-root css-cw3l51"
+>
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+    data-testid="CreateIcon"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 0 0-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+    />
+  </svg>
+  <div
+    className="MuiBox-root css-1itt8el"
+    onClick={[Function]}
+  >
+    <div
+      className="MuiBox-root css-i9gxme"
+    />
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ganrz8-MuiTypography-root"
+    >
+       Create Post
+    </p>
+    <div
+      className="MuiBox-root css-v06jfr"
+    />
+  </div>
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+    data-testid="ImageIcon"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"
+    />
+  </svg>
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+    data-testid="AttachFileIcon"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M16.5 6v11.5c0 2.21-1.79 4-4 4s-4-1.79-4-4V5c0-1.38 1.12-2.5 2.5-2.5s2.5 1.12 2.5 2.5v10.5c0 .55-.45 1-1 1s-1-.45-1-1V6H10v9.5c0 1.38 1.12 2.5 2.5 2.5s2.5-1.12 2.5-2.5V5c0-2.21-1.79-4-4-4S7 2.79 7 5v12.5c0 3.04 2.46 5.5 5.5 5.5s5.5-2.46 5.5-5.5V6h-1.5z"
+    />
+  </svg>
+</div>
+`;

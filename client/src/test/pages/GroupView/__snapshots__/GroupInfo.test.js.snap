@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GroupInfo unit test GroupInfo Snapshot test 1`] = `
+<div
+  className="MuiBox-root css-1c5he4i"
+>
+  <h5
+    className="MuiTypography-root MuiTypography-h5 css-5th0l0-MuiTypography-root"
+  >
+     About 
+  </h5>
+  <hr
+    className="MuiDivider-root MuiDivider-fullWidth css-fkcljs-MuiDivider-root"
+  />
+  <div
+    className="MuiBox-root css-dto4a0"
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+    >
+       Topics 
+    </h6>
+    <div
+      className="MuiBox-root css-1290pys"
+    >
+      <div
+        className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-1dzpuen-MuiChip-root"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+      >
+        <span
+          className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+        >
+          Sports
+        </span>
+      </div>
+      <div
+        className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-1dzpuen-MuiChip-root"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+      >
+        <span
+          className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+        >
+          Universe
+        </span>
+      </div>
+      <div
+        className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-1dzpuen-MuiChip-root"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+      >
+        <span
+          className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+        >
+          Science
+        </span>
+      </div>
+    </div>
+    <h6
+      className="MuiTypography-root MuiTypography-h6 css-1bywiql-MuiTypography-root"
+    >
+       Statistics 
+    </h6>
+    <div
+      className="css-12qb12d-MuiStack-root"
+    >
+      <div
+        className="MuiBox-root css-0"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1 css-ojz4j6-MuiTypography-root"
+        >
+           Created on
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        >
+          Feb 20 2008
+        </p>
+      </div>
+      <div
+        className="MuiBox-root css-0"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1 css-ojz4j6-MuiTypography-root"
+        >
+           Members
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        >
+          2.8k
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiBox-root css-1prb51h"
+  >
+    <button
+      className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-92u5jt-MuiButtonBase-root-MuiButton-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      INVITE
+      <span
+        className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+    <div
+      className="MuiBox-root css-bjhy15"
+    />
+    <div />
+  </div>
+</div>
+`;

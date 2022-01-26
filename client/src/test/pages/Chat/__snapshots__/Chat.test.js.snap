@@ -1,0 +1,288 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chat unit test Chat Snapshot test 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation3 MuiGrid-root MuiGrid-container css-rc9c6r-MuiPaper-root-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1idn90j-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container css-1j4a1ux-MuiGrid-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-11 css-ykovpn-MuiGrid-root"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body1 css-199uuoy-MuiTypography-root"
+          >
+            Tom
+          </p>
+        </div>
+        <div
+          align="right"
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1 css-u78q51-MuiGrid-root"
+        >
+          <button
+            className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+            disabled={false}
+            onBlur={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="CloseIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-middle css-ft4jij-MuiDivider-root"
+      />
+      <div>
+        <div
+          id="scrollableDiv"
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "column-reverse",
+              "height": 370,
+              "overflow": "auto",
+            }
+          }
+        >
+          <div
+            className="infinite-scroll-component__outerdiv"
+            style={Object {}}
+          >
+            <div
+              className="infinite-scroll-component "
+              style={
+                Object {
+                  "WebkitOverflowScrolling": "touch",
+                  "display": "flex",
+                  "flexDirection": "column-reverse",
+                  "height": "auto",
+                  "overflow": "auto",
+                }
+              }
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container css-go2vvz-MuiGrid-root"
+              >
+                <h5
+                  className="MuiTypography-root MuiTypography-h5 css-o50h7g-MuiTypography-root"
+                >
+                  Loading...
+                </h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-middle css-ft4jij-MuiDivider-root"
+      />
+      <div
+        className="MuiGrid-root MuiGrid-container css-o2dw23-MuiGrid-root"
+      >
+        <div
+          className="MuiBox-root css-1wvdymq"
+        >
+          <div
+            className="MuiInputBase-root MuiInputBase-colorPrimary css-piqts5-MuiInputBase-root"
+            onClick={[Function]}
+          >
+            <input
+              aria-label="search google maps"
+              className="MuiInputBase-input css-yz9k0d-MuiInputBase-input"
+              id="message"
+              onAnimationStart={[Function]}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              placeholder="Message"
+              type="text"
+            />
+          </div>
+          <button
+            className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1gtpq4r-MuiButtonBase-root-MuiIconButton-root"
+            disabled={false}
+            id="ImageButton"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="ImageOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-4.86 8.86-3 3.87L9 13.14 6 17h12l-3.86-5.14z"
+              />
+            </svg>
+            <input
+              accept="image/*"
+              hidden={true}
+              id="uploadImage"
+              name="image"
+              onChange={[Function]}
+              type="file"
+            />
+          </button>
+          <button
+            className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1gtpq4r-MuiButtonBase-root-MuiIconButton-root"
+            disabled={false}
+            id="AudioButton"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="PermCameraMicOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 6c-1.1 0-2 .9-2 2v4c0 1.1.9 2 2 2s2-.9 2-2V8c0-1.1-.9-2-2-2zm8-1h-3.17l-1.86-2H8.96L7.17 5H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 14h-7v-1.09c2.83-.48 5-2.94 5-5.91h-2c0 2.21-1.79 4-4 4s-4-1.79-4-4H6c0 2.97 2.17 5.43 5 5.91V19H4V7h4.21l.59-.65L10.04 5h4.24l1.24 1.35.59.65H20v12z"
+              />
+            </svg>
+            <input
+              accept="audio/*"
+              hidden={true}
+              id="uploadAudio"
+              name="audio"
+              onChange={[Function]}
+              type="file"
+            />
+          </button>
+          <button
+            className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1gtpq4r-MuiButtonBase-root-MuiIconButton-root"
+            disabled={false}
+            id="VideoButton"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="VideoLibraryOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H8V4h12v12zM12 5.5v9l6-4.5z"
+              />
+            </svg>
+            <input
+              accept="video/*"
+              hidden={true}
+              id="uploadVideo"
+              name="video"
+              onChange={[Function]}
+              type="file"
+            />
+          </button>
+          <hr
+            className="MuiDivider-root MuiDivider-fullWidth MuiDivider-vertical css-jbezd2-MuiDivider-root"
+          />
+          <button
+            className="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-1bxg8jb-MuiButtonBase-root-MuiIconButton-root"
+            disabled={false}
+            id="send"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="SendIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

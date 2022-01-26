@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageArea unit test MessageArea Snapshot test 1`] = `
+<div>
+  <div
+    id="scrollableDiv"
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "column-reverse",
+        "height": 370,
+        "overflow": "auto",
+      }
+    }
+  >
+    <div
+      className="infinite-scroll-component__outerdiv"
+      style={Object {}}
+    >
+      <div
+        className="infinite-scroll-component "
+        style={
+          Object {
+            "WebkitOverflowScrolling": "touch",
+            "display": "flex",
+            "flexDirection": "column-reverse",
+            "height": "auto",
+            "overflow": "auto",
+          }
+        }
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container css-go2vvz-MuiGrid-root"
+        >
+          <h5
+            className="MuiTypography-root MuiTypography-h5 css-o50h7g-MuiTypography-root"
+          >
+            Loading...
+          </h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

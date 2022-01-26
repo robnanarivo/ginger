@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostHeader unit test PostHeader Snapshot test 1`] = `
+<div
+  className="MuiCardHeader-root css-185gdzj-MuiCardHeader-root"
+>
+  <div
+    className="MuiCardHeader-avatar css-1ssile9-MuiCardHeader-avatar"
+  >
+    <div
+      className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-x7yxgc-MuiAvatar-root"
+      onClick={[Function]}
+    >
+      B
+    </div>
+  </div>
+  <div
+    className="MuiCardHeader-content css-1qbkelo-MuiCardHeader-content"
+  >
+    <span
+      className="MuiTypography-root MuiTypography-body2 MuiCardHeader-title css-et1ao3-MuiTypography-root"
+    >
+      Bob
+    </span>
+  </div>
+</div>
+`;

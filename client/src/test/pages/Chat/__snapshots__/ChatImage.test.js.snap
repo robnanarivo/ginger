@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChatImage unit test ChatImage Snapshot test 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container css-1fkyx8n-MuiGrid-root"
+>
+  <div
+    align="right"
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1idn90j-MuiGrid-root"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-vvr8k2-MuiTypography-root"
+    >
+      You
+    </p>
+    <img
+      alt=""
+      style={
+        Object {
+          "maxHeight": "100%",
+          "maxWidth": 350,
+        }
+      }
+    />
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-vvr8k2-MuiTypography-root"
+    >
+      20211202
+    </p>
+  </div>
+</div>
+`;

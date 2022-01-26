@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Group Header unit test Group Header Snapshot test 1`] = `
+<div
+  className="MuiBox-root css-1u6fsyb"
+>
+  <div
+    className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-ifki4c-MuiAvatar-root"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiAvatar-fallback css-10mi8st-MuiSvgIcon-root-MuiAvatar-fallback"
+      data-testid="PersonIcon"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+      />
+    </svg>
+  </div>
+  <h4
+    className="MuiTypography-root MuiTypography-h4 css-kdvr66-MuiTypography-root"
+  >
+    Guardians of the Galaxy
+  </h4>
+  <button
+    className="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root  css-1czmaf0-MuiButtonBase-root-MuiButton-root"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    LEAVE
+    <span
+      className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;

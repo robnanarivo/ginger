@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GroupRow unit test GroupRow Snapshot test 1`] = `
+<div
+  className="MuiBox-root css-3cku3k"
+>
+  <div
+    className="MuiBox-root css-11ldntd"
+    data-testid="b1"
+    onClick={[Function]}
+  >
+    <div
+      className="MuiBox-root css-1q6kmr2"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-1pjrok-MuiTypography-root"
+      >
+        1
+      </p>
+      <div
+        className="MuiBox-root css-i9gxme"
+      />
+      <div
+        className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-2s90m6-MuiAvatar-root"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-9cpfib-MuiAvatar-root"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiAvatar-fallback css-10mi8st-MuiSvgIcon-root-MuiAvatar-fallback"
+            data-testid="PersonIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-1pjrok-MuiTypography-root"
+    >
+      Galaxy
+    </p>
+    <div
+      className="MuiBox-root css-i9gxme"
+    />
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      40 Members
+    </p>
+  </div>
+  <div
+    className="MuiBox-root css-i9gxme"
+  />
+  <button
+    className="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root  css-n9pybf-MuiButtonBase-root-MuiButton-root"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    LEAVE
+    <span
+      className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;

@@ -1,0 +1,239 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopicBar unit test TopicBar Snapshot test 1`] = `
+<nav
+  aria-labelledby="nested-list-subheader"
+  className="MuiList-root MuiList-padding MuiList-subheader css-1ny30ma-MuiList-root"
+>
+  <div
+    className="MuiListSubheader-root MuiListSubheader-gutters MuiListSubheader-sticky css-ap3lwe-MuiListSubheader-root"
+    id="nested-list-subheader"
+  >
+    Topics
+  </div>
+  <div
+    className="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <div
+      className="MuiListItemText-root css-tlelie-MuiListItemText-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+      >
+        Joined
+      </span>
+    </div>
+  </div>
+  <div
+    className="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <div
+      className="MuiListItemText-root css-tlelie-MuiListItemText-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+      >
+        Suggestions
+      </span>
+    </div>
+  </div>
+  <div
+    className="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <div
+      className="MuiListItemText-root css-tlelie-MuiListItemText-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+      >
+        Public
+      </span>
+    </div>
+  </div>
+  <div
+    className="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <div
+      className="MuiListItemText-root css-tlelie-MuiListItemText-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+      >
+        Private
+      </span>
+    </div>
+  </div>
+  <div
+    className="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <div
+      className="MuiListItemText-root css-tlelie-MuiListItemText-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+      >
+        Local
+      </span>
+    </div>
+  </div>
+  <div
+    className="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <div
+      className="MuiListItemText-root css-tlelie-MuiListItemText-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+      >
+        Food
+      </span>
+    </div>
+  </div>
+  <div
+    className="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <div
+      className="MuiListItemText-root css-tlelie-MuiListItemText-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+      >
+        Entertainment
+      </span>
+    </div>
+  </div>
+  <div
+    className="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <div
+      className="MuiListItemText-root css-tlelie-MuiListItemText-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+      >
+        Sports
+      </span>
+    </div>
+  </div>
+</nav>
+`;

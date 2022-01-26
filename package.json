@@ -1,0 +1,13 @@
+{
+  "name": "ginger",
+  "description": "ginger app that contains both front and back end",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
+  "scripts": {
+    "heroku-prebuild": "cd client && npm install && npm run build && cd .. && cd api && npm install",
+    "start": "cd api && npm start"
+  }
+}

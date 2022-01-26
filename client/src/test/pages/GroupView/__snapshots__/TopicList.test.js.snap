@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopicList unit test TopicList Snapshot test 1`] = `
+<div
+  className="MuiBox-root css-1290pys"
+>
+  <div
+    className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-1dzpuen-MuiChip-root"
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+  >
+    <span
+      className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+    >
+      Sports
+    </span>
+  </div>
+  <div
+    className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-1dzpuen-MuiChip-root"
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+  >
+    <span
+      className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+    >
+      Universe
+    </span>
+  </div>
+  <div
+    className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-1dzpuen-MuiChip-root"
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+  >
+    <span
+      className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+    >
+      Science
+    </span>
+  </div>
+</div>
+`;

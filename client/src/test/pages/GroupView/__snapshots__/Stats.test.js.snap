@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stats unit test Stats Snapshot test 1`] = `
+<div
+  className="css-12qb12d-MuiStack-root"
+>
+  <div
+    className="MuiBox-root css-0"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ojz4j6-MuiTypography-root"
+    >
+       Created on
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      Feb 20 2008
+    </p>
+  </div>
+  <div
+    className="MuiBox-root css-0"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ojz4j6-MuiTypography-root"
+    >
+       Members
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      2.8k
+    </p>
+  </div>
+</div>
+`;
